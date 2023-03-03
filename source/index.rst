@@ -5,6 +5,16 @@
 
 Последний раз был скомпилирован |today|.
 
+Commissioning
+*************
+
+..  toctree::
+    :maxdepth: 3
+    :numbered:
+    
+    commissioning/general
+    commissioning/halcyon
+
 QA оборудования
 ***************
 
