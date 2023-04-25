@@ -1,4 +1,4 @@
-.. _qa_equipment_periodic_procedures:
+.. _qa_equipment_periodic_qa:
 
 Периодические процедуры на аппаратах
 ====================================

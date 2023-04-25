@@ -22,8 +22,10 @@ QA оборудования
     :maxdepth: 3
     :numbered:
     
-    qa_equipment/daily_procedures
-    qa_equipment/periodic_procedures
+    qa_equipment/procedures
+    qa_equipment/daily_qa
+    qa_equipment/periodic_qa
+    qa_equipment/review
     qa_equipment/reporting
 
 Клинические протоколы
@@ -51,9 +53,13 @@ QA оборудования
     :maxdepth: 3
     :numbered:
     
+    Apendixes/forms
+    Apendixes/tech_docs
     Apendixes/edit_manual
     Apendixes/reference
 
-
 .. bibliography::
    :style: unsrt
+
+.. todolist::
+ 

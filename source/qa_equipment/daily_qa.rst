@@ -1,4 +1,4 @@
-.. _qa_equipment_daily_procedures:
+.. _qa_equipment_daily_qa:
 
 Ежедневные процедуры на аппаратах
 =================================
