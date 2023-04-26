@@ -12,7 +12,9 @@ Commissioning
     :maxdepth: 3
     :numbered:
     
-    commissioning/general
+    commissioning/config_accelerators
+    commissioning/config_tps
+    commissioning/config_rv
     commissioning/halcyon
 
 QA оборудования
@@ -27,6 +29,7 @@ QA оборудования
     qa_equipment/periodic_qa
     qa_equipment/review
     qa_equipment/reporting
+    qa_equipment/cleaning
 
 Клинические протоколы
 *********************
@@ -55,6 +58,7 @@ QA оборудования
     
     Apendixes/forms
     Apendixes/tech_docs
+    Apendixes/troubleshooting
     Apendixes/edit_manual
     Apendixes/reference
 
