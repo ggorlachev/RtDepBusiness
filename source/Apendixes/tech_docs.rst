@@ -62,6 +62,10 @@
      - ` <./data/varian/.pdf>`_
    * - **TrueBeam**. **.
      - ` <./data/varian/.pdf>`_
+   * - **TrueBeam**. **.
+     - ` <./data/varian/.pdf>`_
+   * - **TrueBeam**. **.
+     - ` <./data/varian/.pdf>`_
 
 .. list-table:: Инженерная документация Varian
    :name: _varian_engineering_docs-table

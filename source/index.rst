@@ -13,8 +13,8 @@ Commissioning
     :numbered:
     
     commissioning/config_accelerators
-    commissioning/config_tps
     commissioning/config_rv
+    commissioning/config_tps
     commissioning/halcyon
 
 QA оборудования
