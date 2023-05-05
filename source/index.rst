@@ -16,6 +16,8 @@ Commissioning
     commissioning/config_rv
     commissioning/config_tps
     commissioning/halcyon
+    commissioning/truebeam
+    commissioning/dosimetry_equipment
 
 QA оборудования
 ***************
@@ -24,6 +26,7 @@ QA оборудования
     :maxdepth: 3
     :numbered:
     
+    qa_equipment/dosimetry
     qa_equipment/procedures
     qa_equipment/daily_qa
     qa_equipment/periodic_qa
