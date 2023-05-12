@@ -56,6 +56,8 @@
      - `P1044594-001-A <./data/varian/Eclipse_16.1_Photon_and_Electron_ Reference_Guide.pdf>`_
    * - **Eclipse 16.1 Commissioning - Admin and Physics course manual**.
      - `EC16.1-CEM-06-B <./data/varian/Eclipse_16.1_Commissioning-Admin_and_Physics.pdf>`_
+   * - **Halcyon Physics**.
+     - `AL3.1-CEM-01-A <./data/varian/HA201_Halcyon_Physics_3.1.pdf>`_
    * - **Varian Service Portal Administration**. *Reference Guide*.
      - `P1014877-006-F <./data/varian/Varian_Service_Portal_Administration_Reference_Guide.pdf>`_
    * - **TrueBeam**. **.

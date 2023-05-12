@@ -1,4 +1,4 @@
-.. _qa_equipment_procedures:
+.. _qa_equipment_test_procedures:
 
 Тестовые процедуры
 ==================

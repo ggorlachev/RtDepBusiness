@@ -28,7 +28,8 @@ QA оборудования
     :numbered:
     
     qa_equipment/dosimetry
-    qa_equipment/procedures
+    qa_equipment/test_procedures
+    qa_equipment/adjust_procedures
     qa_equipment/daily_qa
     qa_equipment/periodic_qa
     qa_equipment/review
