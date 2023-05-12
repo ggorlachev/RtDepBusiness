@@ -17,6 +17,7 @@ Commissioning
     commissioning/config_tps
     commissioning/halcyon
     commissioning/truebeam
+    commissioning/config_axxent
     commissioning/dosimetry_equipment
 
 QA оборудования
