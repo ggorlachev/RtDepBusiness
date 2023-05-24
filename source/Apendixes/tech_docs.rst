@@ -10,8 +10,8 @@
 - Руководства по использованию Varian :numref:`(Табл. %s) <_varian_user_docs-table>`
 - Руководства физика Varian :numref:`(Табл. %s) <_varian_physics_docs-table>`
 - Инженерная документация Varian :numref:`(Табл. %s) <_varian_engineering_docs-table>`
-- Рентгеновский компьютерный томограф GE
-- Магнитно-резонансны томограф GE
+- Рентгеновский компьютерный томограф GE :numref:`(Табл. %s) <_ge_ct_docs-table>`
+- Магнитно-резонансны томограф GE :numref:`(Табл. %s) <_ge_mri_docs-table>`
 
 .. list-table:: Руководства по использованию Varian
    :name: _varian_user_docs-table
@@ -35,6 +35,12 @@
      - `P1034774-003-C <./data/varian/ARIA_Radiation_Therapy_Management_16.0_Treatment_Preparation_Reference_Guide.pdf>`_
    * - **Eclipse Photon and Electron Instructions for Use**.
      - `P1044593-001-A <./data/varian/Eclipse_16.1_Photon_and_Electron_Instructions_for_Use.pdf>`_
+   * - **Eclipse Photon and Electron Reference Guide**.
+     - `P1044594-001-A <./data/varian/Eclipse_16.1_Photon_and_Electron_ Reference_Guide.pdf>`_
+   * - **BrachyVision Instructions for Use**.
+     - `P1053282-001-A <./data/varian/BrachyVision_Instructions_for_Use.pdf>`_
+   * - **BrachyVision Reference Guide**.
+     - `P1053283-001-A <./data/varian/BrachyVision_Reference_Guide.pdf>`_
 
 .. list-table:: Руководства физика Varian
    :name: _varian_physics_docs-table
@@ -52,8 +58,6 @@
      - `P1026479-002-B <./data/varian/Beam_Configuration_16.0_Reference_Guide.pdf>`_
    * - **Eclipse Photon and Electron Algorithms Reference Guide**.
      - `P1044595-001-A <./data/varian/Eclipse_16.1_Photon_and_Electron_Algorithms_Reference_Guide.pdf>`_
-   * - **Eclipse Photon and Electron Reference Guide**.
-     - `P1044594-001-A <./data/varian/Eclipse_16.1_Photon_and_Electron_ Reference_Guide.pdf>`_
    * - **Eclipse 16.1 Commissioning - Admin and Physics course manual**.
      - `EC16.1-CEM-06-B <./data/varian/Eclipse_16.1_Commissioning-Admin_and_Physics.pdf>`_
    * - **Halcyon Physics**.
@@ -88,9 +92,41 @@
    * - **TrueBeam**. **.
      - ` <./data/varian/.pdf>`_
 
-.. todo::
-    
-  Заполнить документацию пользователя и физика Varian, 
-  чтобы продолжить систематическую конфигурацию всего комплекса Varian.
+.. list-table:: Рентгеновский компьютерный томограф GE
+   :name: _ge_ct_docs-table
+   :widths: 3, 1
+   :width: 100%
+   :header-rows: 1
 
-  Затем перейти к аналогичной работе над брахитерапией и томографами.
+   * - Описание
+     - Документ
+   * - **Система КТ**. *Обучающее и справочное*.
+     - `5800013-1RU <./data/GE/Discovery_RT_5800013-1RU_r3.pdf>`_
+   * - **GE OEC Elite**. *Руководство оператора*.
+     - `5483603-8RU-14 <./data/GE/OEC_Elite_Operator_Manual_5483603-8RU-14.pdf>`_
+   * - **Respiratory Gating for Scanners**. *Instructions for Use*.
+     - `P1010335-013-M <./data/varian/Respiratory_Gating_for_Scanners_Instructions_for_Use.pdf>`_
+   * - ****. **.
+     - ` <./data/GE/.pdf>`_
+   * - ****. **.
+     - ` <./data/GE/.pdf>`_
+
+
+.. list-table:: Магнитно-резонансны томограф GE
+   :name: _ge_mri_docs-table
+   :widths: 3, 1
+   :width: 100%
+   :header-rows: 1
+
+   * - Описание
+     - Документ
+   * - **SIGNA™ Architect**. *Руководство оператора*.
+     - `5819020-1RU (2019/05) Ред. 1 <./data/GE/Signa_Architect_RU.pdf>`_
+   * - ****. **.
+     - ` <./data/GE/.pdf>`_
+   * - ****. **.
+     - ` <./data/GE/.pdf>`_
+   * - ****. **.
+     - ` <./data/GE/.pdf>`_
+   * - ****. **.
+     - ` <./data/GE/.pdf>`_

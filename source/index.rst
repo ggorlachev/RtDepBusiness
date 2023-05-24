@@ -19,6 +19,8 @@ Commissioning
     commissioning/truebeam
     commissioning/config_axxent
     commissioning/dosimetry_equipment
+    commissioning/config_ct
+    commissioning/config_mri
 
 QA оборудования
 ***************
@@ -35,6 +37,8 @@ QA оборудования
     qa_equipment/review
     qa_equipment/reporting
     qa_equipment/cleaning
+    qa_equipment/qa_ct
+    qa_equipment/qa_mri
 
 Клинические протоколы
 *********************
@@ -61,11 +65,12 @@ QA оборудования
     :maxdepth: 3
     :numbered:
     
+    Apendixes/instructions
     Apendixes/forms
-    Apendixes/tech_docs
     Apendixes/troubleshooting
-    Apendixes/edit_manual
     Apendixes/reference
+    Apendixes/tech_docs
+    Apendixes/edit_manual
 
 .. bibliography::
    :style: unsrt
