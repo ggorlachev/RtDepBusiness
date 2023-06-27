@@ -70,3 +70,70 @@ TrueBeam
 сервисную службу или квалифицированному специалисту.
 Если сбои происходят случайно и достаточно часто, то вероятно 
 какие-то настройки ушли. В этом случе так же нужен квалифицированный специалист.
+
+Специальные консольные инструменты
+----------------------------------
+
+Halcyon
+~~~~~~~
+
+На рисунках :numref:`(Рис. %s) <_halcyon_print_screen_shortcut-figure>`,
+:numref:`(Рис. %s) <_terminate_unresponcive_shortcut-figure>`
+и :numref:`(Рис. %s) <_service_status_shortcut-figure>`
+представлены конды консоли для ...
+
+.. figure:: images/HalcyonPrintScreenShortcut.png
+    :name: _halcyon_print_screen_shortcut-figure
+    :align: center
+    :width: 80%
+    :figclass: align-center
+
+    Вывод содержимого экрана в файл в разделяемой папке
+
+
+.. figure:: images/TerminateUnresponciveShortcut.png
+    :name: _terminate_unresponcive_shortcut-figure
+    :align: center
+    :width: 80%
+    :figclass: align-center
+
+    Перезапуск сервисов, например когда приложения перестают отвечать
+
+
+.. figure:: images/ServiceStatusShortcut.png
+    :name: _service_status_shortcut-figure
+    :align: center
+    :width: 80%
+    :figclass: align-center
+
+    Вывод сервисного окна со статусом оборудования
+
+
+На рисунке :numref:`(Рис. %s) <_drive_i_folders-figure>`
+представлено назначение папок разделяемого диска **I:**, 
+физически расположенного на сервере.
+
+.. figure:: images/DriveIFolders.png
+    :name: _drive_i_folders-figure
+    :align: center
+    :width: 80%
+    :figclass: align-center
+
+    Назначение папок разделяемого диска
+
+
+На рисунке :numref:`(Рис. %s) <_folders_and_components-figure>`
+показаны компоненты и папки Vаrian.
+Во всех режимах кроме лечебного консоль не имеет доступа к *Aria*.
+Поэтому загрузка контрольных планов происходим через чтение *DICOM* файлов с диска **I:**.
+Данные, генерируемые в процессе использования служебных процедур сохраняются локально на консольном диске **D:**.
+Однако, специальный сервис **PEER** синхронизирует их с диском **I:**, 
+к которому пользователь имеет доступ и может их анализировать.
+
+.. figure:: images/FoldersAndComponents.png
+    :name: _folders_and_components-figure
+    :align: center
+    :width: 80%
+    :figclass: align-center
+
+    Папки и компоненты
