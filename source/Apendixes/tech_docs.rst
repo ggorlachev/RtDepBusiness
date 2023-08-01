@@ -12,6 +12,7 @@
 - Инженерная документация Varian :numref:`(Табл. %s) <_varian_engineering_docs-table>`
 - Рентгеновский компьютерный томограф GE :numref:`(Табл. %s) <_ge_ct_docs-table>`
 - Магнитно-резонансны томограф GE :numref:`(Табл. %s) <_ge_mri_docs-table>`
+- Дозиметрическое оборудование :numref:`(Табл. %s) <_dosimetry_docs-table>`
 
 .. list-table:: Руководства по использованию Varian
    :name: _varian_user_docs-table
@@ -130,3 +131,14 @@
      - ` <./data/GE/.pdf>`_
    * - ****. **.
      - ` <./data/GE/.pdf>`_
+
+.. list-table:: Дозиметрическое оборудование
+   :name: _dosimetry_docs-table
+   :widths: 3, 1
+   :width: 100%
+   :header-rows: 1
+
+   * - Описание
+     - Документ
+   * - **BEAMCHECKER PLUS**. *User Manual*.
+     - `REF 90501 <./data/dosimetry/80117-10 QABC_MNL.pdf>`_

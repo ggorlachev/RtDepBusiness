@@ -40,12 +40,16 @@
 Определение CT томографа происходит по ссылке
 **RT Administration** -> **Radiation and Imaging Devices**.
 
-Работа с томографами описывается в учебном руководстве начиная со страницы 216.
+Работа с томографами описывается в
+`учебном руководстве <./data/varian/Eclipse_16.1_Commissioning-Admin_and_Physics.pdf>`_
+начиная со страницы 216 в 
+`руководстве по администрированию <./data/varian/ARIA_Radiation_Therapy_Management_RT_Administration_16.1_Reference_Guide.pdf>`_
+со страницы 26.
 
 Среди настроек есть параметры, по которым определяется сканер из DICOM Tags.
 
 Интерпретация чисел Хаусфильда зависит от алгоритма расчета дозы.
-Описание приводится на рисунке :numref:`(Рис. %s) <_truebeam_head-figure>`.
+Описание приводится на рисунке :numref:`(Рис. %s) <_ct_vs_algorihm-figure>`.
 
 .. figure:: images/CT_vs_Algorihm.png
     :name: _ct_vs_algorihm-figure
