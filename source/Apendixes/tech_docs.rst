@@ -13,6 +13,7 @@
 - Рентгеновский компьютерный томограф GE :numref:`(Табл. %s) <_ge_ct_docs-table>`
 - Магнитно-резонансны томограф GE :numref:`(Табл. %s) <_ge_mri_docs-table>`
 - Дозиметрическое оборудование :numref:`(Табл. %s) <_dosimetry_docs-table>`
+- Справочные данные :numref:`(Табл. %s) <_data_files-table>`
 
 .. list-table:: Руководства по использованию Varian
    :name: _varian_user_docs-table
@@ -142,3 +143,14 @@
      - Документ
    * - **BEAMCHECKER PLUS**. *User Manual*.
      - `REF 90501 <./data/dosimetry/80117-10 QABC_MNL.pdf>`_
+
+.. list-table:: Справочные данные
+   :name: _data_files-table
+   :widths: 1, 1
+   :width: 100%
+   :header-rows: 1
+
+   * - Папка - файл
+     - Описание
+   * - `files/BeamChecker_plans.zip <./data/files/BeamChecker_plans.zip>`_
+     - Файлы планов утренних проверок *BeamChecker*
