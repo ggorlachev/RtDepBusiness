@@ -142,7 +142,11 @@
    * - Описание
      - Документ
    * - **BEAMCHECKER PLUS**. *User Manual*.
-     - `REF 90501 <./data/dosimetry/80117-10 QABC_MNL.pdf>`_
+     - `REF 90501 <./data/dosimetry/80117-10_QABC_MNL.pdf>`_
+   * - **MatriXX Resolution**. *Quick Start Guide*.
+     - `MatriXX Quick Start <./data/dosimetry/P-19-012-510-201_02_MatriXX_Resolution_Quick_Start_Guide.pdf>`_
+   * - **myQA Patients**. *User Guide*.
+     - `myQA Patients <./data/dosimetry/Vol_5_myQA_Patients_User_Guide.pdf>`_
 
 .. list-table:: Справочные данные
    :name: _data_files-table
