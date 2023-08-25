@@ -13,6 +13,7 @@
 - Рентгеновский компьютерный томограф GE :numref:`(Табл. %s) <_ge_ct_docs-table>`
 - Магнитно-резонансны томограф GE :numref:`(Табл. %s) <_ge_mri_docs-table>`
 - Дозиметрическое оборудование :numref:`(Табл. %s) <_dosimetry_docs-table>`
+- Гипертермия :numref:`(Табл. %s) <_hyperthermia_docs-table>`
 - Справочные данные :numref:`(Табл. %s) <_data_files-table>`
 
 .. list-table:: Руководства по использованию Varian
@@ -113,7 +114,6 @@
    * - ****. **.
      - ` <./data/GE/.pdf>`_
 
-
 .. list-table:: Магнитно-резонансны томограф GE
    :name: _ge_mri_docs-table
    :widths: 3, 1
@@ -132,6 +132,17 @@
      - ` <./data/GE/.pdf>`_
    * - ****. **.
      - ` <./data/GE/.pdf>`_
+
+.. list-table:: Гипертермия
+   :name: _hyperthermia_docs-table
+   :widths: 3, 1
+   :width: 100%
+   :header-rows: 1
+
+   * - Описание
+     - Документ
+   * - **BSD-500 Hyperthermia System**. *Operator Manual*.
+     - `BSD-500 <./data/hyperthermia/BSD500_Operator_Manual.pdf>`_
 
 .. list-table:: Дозиметрическое оборудование
    :name: _dosimetry_docs-table
