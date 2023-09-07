@@ -39,6 +39,7 @@ QA оборудования
     qa_equipment/cleaning
     qa_equipment/qa_ct
     qa_equipment/qa_mri
+    qa_equipment/qa_hyperthermia
 
 Клинические протоколы
 *********************
