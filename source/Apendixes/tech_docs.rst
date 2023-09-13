@@ -10,8 +10,12 @@
 - Руководства по использованию Varian :numref:`(Табл. %s) <_varian_user_docs-table>`
 - Руководства физика Varian :numref:`(Табл. %s) <_varian_physics_docs-table>`
 - Инженерная документация Varian :numref:`(Табл. %s) <_varian_engineering_docs-table>`
+- Электронная брахитерапия **Axxent** :numref:`(Табл. %s) <_brachy_axxent_docs-table>`
 - Рентгеновский компьютерный томограф GE :numref:`(Табл. %s) <_ge_ct_docs-table>`
 - Магнитно-резонансны томограф GE :numref:`(Табл. %s) <_ge_mri_docs-table>`
+- Дозиметрическое оборудование :numref:`(Табл. %s) <_dosimetry_docs-table>`
+- Гипертермия :numref:`(Табл. %s) <_hyperthermia_docs-table>`
+- Справочные данные :numref:`(Табл. %s) <_data_files-table>`
 
 .. list-table:: Руководства по использованию Varian
    :name: _varian_user_docs-table
@@ -92,6 +96,27 @@
    * - **TrueBeam**. **.
      - ` <./data/varian/.pdf>`_
 
+.. list-table:: Электронная брахитерапия **Axxent**
+   :name: _brachy_axxent_docs-table
+   :widths: 3, 1
+   :width: 100%
+   :header-rows: 1
+
+   * - Описание
+     - Документ
+   * - New National Air-Kerma Standard for Low-Energy Electronic Brachytherapy Sources
+     - `Air-Kerma Standard <./data/Axxent/jres.119.022.pdf>`_
+   * - Axxent Model 110 Controller *Operator Manual*
+     - `Operator Manual <./data/Axxent/750044_Rev_AN_Operator_Manual.pdf>`_
+   * - Xoft Axxent Electronic Brachytherapy System *Technical Overview*
+     - `Technical Overview <./data/Axxent/_MC-439_Rev_E_Technical_Overview.pdf>`_
+   * - **GE OEC Elite**. *Руководство оператора*.
+     - `5483603-8RU-14 <./data/GE/OEC_Elite_Operator_Manual_5483603-8RU-14.pdf>`_
+   * - 
+     - 
+   * - 
+     - 
+
 .. list-table:: Рентгеновский компьютерный томограф GE
    :name: _ge_ct_docs-table
    :widths: 3, 1
@@ -111,8 +136,7 @@
    * - ****. **.
      - ` <./data/GE/.pdf>`_
 
-
-.. list-table:: Магнитно-резонансны томограф GE
+.. list-table:: Магнитно-резонансный томограф GE
    :name: _ge_mri_docs-table
    :widths: 3, 1
    :width: 100%
@@ -130,3 +154,40 @@
      - ` <./data/GE/.pdf>`_
    * - ****. **.
      - ` <./data/GE/.pdf>`_
+
+.. list-table:: Гипертермия
+   :name: _hyperthermia_docs-table
+   :widths: 3, 1
+   :width: 100%
+   :header-rows: 1
+
+   * - Описание
+     - Документ
+   * - **BSD-500 Hyperthermia System**. *Operator Manual*.
+     - `BSD-500 <./data/hyperthermia/BSD500_Operator_Manual.pdf>`_
+
+.. list-table:: Дозиметрическое оборудование
+   :name: _dosimetry_docs-table
+   :widths: 3, 1
+   :width: 100%
+   :header-rows: 1
+
+   * - Описание
+     - Документ
+   * - **BEAMCHECKER PLUS**. *User Manual*.
+     - `REF 90501 <./data/dosimetry/80117-10_QABC_MNL.pdf>`_
+   * - **MatriXX Resolution**. *Quick Start Guide*.
+     - `MatriXX Quick Start <./data/dosimetry/P-19-012-510-201_02_MatriXX_Resolution_Quick_Start_Guide.pdf>`_
+   * - **myQA Patients**. *User Guide*.
+     - `myQA Patients <./data/dosimetry/Vol_5_myQA_Patients_User_Guide.pdf>`_
+
+.. list-table:: Справочные данные
+   :name: _data_files-table
+   :widths: 1, 1
+   :width: 100%
+   :header-rows: 1
+
+   * - Папка - файл
+     - Описание
+   * - `files/BeamChecker_plans.zip <./data/files/BeamChecker_plans.zip>`_
+     - Файлы планов утренних проверок *BeamChecker*
