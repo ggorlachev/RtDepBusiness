@@ -113,7 +113,8 @@ TrueBeam
    
    .. code-block:: none
    
-       I:/
+       I:/DailyQA/TrueBeamSN5128/BeamChecker_Truebeam_20x20.dcm
+
 #. Установить *BeamChecker* в лазерный изоцентр как показано на рисунке
    :numref:`(Рис. %s) <_beam_checker_truebeam>`.
 
@@ -167,7 +168,7 @@ Halcyon
    
    .. code-block:: none
    
-       I:/
+       I:/DailyQA/Halcyon/BeamChecker_Halcyon_20x20.dcm
 
 #. Установить *BeamChecker* в лазерный изоцентр  как показано на рисунке 
    :numref:`(Рис. %s) <_halcyon_beamChecker>`.

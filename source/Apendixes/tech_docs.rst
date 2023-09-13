@@ -10,6 +10,7 @@
 - Руководства по использованию Varian :numref:`(Табл. %s) <_varian_user_docs-table>`
 - Руководства физика Varian :numref:`(Табл. %s) <_varian_physics_docs-table>`
 - Инженерная документация Varian :numref:`(Табл. %s) <_varian_engineering_docs-table>`
+- Электронная брахитерапия **Axxent** :numref:`(Табл. %s) <_brachy_axxent_docs-table>`
 - Рентгеновский компьютерный томограф GE :numref:`(Табл. %s) <_ge_ct_docs-table>`
 - Магнитно-резонансны томограф GE :numref:`(Табл. %s) <_ge_mri_docs-table>`
 - Дозиметрическое оборудование :numref:`(Табл. %s) <_dosimetry_docs-table>`
@@ -95,6 +96,27 @@
    * - **TrueBeam**. **.
      - ` <./data/varian/.pdf>`_
 
+.. list-table:: Электронная брахитерапия **Axxent**
+   :name: _brachy_axxent_docs-table
+   :widths: 3, 1
+   :width: 100%
+   :header-rows: 1
+
+   * - Описание
+     - Документ
+   * - New National Air-Kerma Standard for Low-Energy Electronic Brachytherapy Sources
+     - `Air-Kerma Standard <./data/Axxent/jres.119.022.pdf>`_
+   * - Axxent Model 110 Controller *Operator Manual*
+     - `Operator Manual <./data/Axxent/750044_Rev_AN_Operator_Manual.pdf>`_
+   * - Xoft Axxent Electronic Brachytherapy System *Technical Overview*
+     - `Technical Overview <./data/Axxent/_MC-439_Rev_E_Technical_Overview.pdf>`_
+   * - **GE OEC Elite**. *Руководство оператора*.
+     - `5483603-8RU-14 <./data/GE/OEC_Elite_Operator_Manual_5483603-8RU-14.pdf>`_
+   * - 
+     - 
+   * - 
+     - 
+
 .. list-table:: Рентгеновский компьютерный томограф GE
    :name: _ge_ct_docs-table
    :widths: 3, 1
@@ -114,7 +136,7 @@
    * - ****. **.
      - ` <./data/GE/.pdf>`_
 
-.. list-table:: Магнитно-резонансны томограф GE
+.. list-table:: Магнитно-резонансный томограф GE
    :name: _ge_mri_docs-table
    :widths: 3, 1
    :width: 100%

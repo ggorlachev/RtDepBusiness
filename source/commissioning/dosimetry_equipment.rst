@@ -51,7 +51,7 @@ IBA myQA
 Также следует включить поле и проверить совпадение его размеров с отмеченным на матрице диапазоном 10 x 10 см (см. рис. 7.3.2).
 
 .. figure:: images/matrixx1.png
-    :name: _myqa5
+    :name: _myqa6
     :align: center
     :scale: 55%
     :figclass: align-center
