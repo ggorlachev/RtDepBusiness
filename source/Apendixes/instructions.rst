@@ -123,3 +123,37 @@ MRI
 
 Верификация планов с помощью портальной дозиметрии
 ---------------------------------------------------
+Для верификации плана с помощью портальной дозиметрии создаем верификационный план и выбираем 
+верификацию на портальной дозиметрии, не забываем выбрать SID= 100 см. (см. :numref:`рис. %s <_portalver1>`).
+
+.. figure:: images/PortalVer1.png
+    :name: _portalver1
+    :align: center
+    :width: 80%
+    :figclass: align-center
+
+    Окно выбора SID
+
+После создания плана нужно сделать approve и 
+перейти в plan scheduling  и сделать integrated image на всех полях как показано на рисунке (см. :numref:`рис. %s <_portalver2>`)
+
+ .. figure:: images/PortalVer2.png
+    :name: _portalver2
+    :align: center
+    :width: 80%
+    :figclass: align-center
+
+    Создание integrated image
+
+
+После данных действий можно отпустить план на ускорителе.
+Для просмотра результатов и дальнейшего анализа нужно зайти во вкладку Portal Dosimetry, 
+как показано на :numref:`рис. %s <_portalver3>`
+
+.. figure:: images/PortalVer3.png
+    :name: _portalver3
+    :align: center
+    :width: 50%
+    :figclass: align-center
+
+    Просмотр результатов
