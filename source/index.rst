@@ -37,8 +37,6 @@ QA оборудования
     qa_equipment/review
     qa_equipment/reporting
     qa_equipment/cleaning
-    qa_equipment/qa_ct
-    qa_equipment/qa_mri
     qa_equipment/qa_hyperthermia
 
 Клинические протоколы
@@ -58,6 +56,11 @@ QA оборудования
     :numbered:
     
     diagnostic_protocols/general
+    diagnostic_protocols/artefacts
+    diagnostic_protocols/clinic
+    diagnostic_protocols/prostate
+    diagnostic_protocols/qa_ct
+    diagnostic_protocols/qa_mri
 
 Дополнительные материалы
 ************************

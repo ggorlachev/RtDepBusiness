@@ -1,4 +1,4 @@
-.. _qa_ct:
+.. _diagnostic_protocols_qa_ct:
 
 Процедуры контроля CT
 =====================
