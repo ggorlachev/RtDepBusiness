@@ -18,7 +18,7 @@ numfig_secnum_depth = 2
 
 # project = u'РОКвадро руководство пользователя'
 project = u'Бизнес система отделения лучевой терапии МКНЦ им. Логинова'
-copyright = u'2023, МКНЦ'
+copyright = u'2023-24, МКНЦ'
 author = u'Отеделение лучевой терапии МКНЦ'
 
 # The full version, including alpha/beta/rc tags

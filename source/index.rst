@@ -71,6 +71,7 @@ QA оборудования
     
     Apendixes/instructions
     Apendixes/forms
+    Apendixes/reporting
     Apendixes/troubleshooting
     Apendixes/reference
     Apendixes/tech_docs
